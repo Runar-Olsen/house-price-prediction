@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Regression-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 # 🏠 House Price Prediction (Regression, Python)
 
 Et end-to-end prosjekt som predikerer boligpriser (SalePrice) med **regresjonsmodeller** i Python.
