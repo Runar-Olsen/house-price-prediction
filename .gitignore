@@ -1,0 +1,48 @@
+# ======================
+# Virtuelt miljø
+# ======================
+.venv/
+venv/
+env/
+
+# ======================
+# Python-cache
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ======================
+# Systemfiler (Windows / macOS)
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Notebook cache
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Data (store eller sensitive)
+# ======================
+data/raw/
+data/processed/
+
+# ======================
+# Midlertidige resultater
+# ======================
+reports/
+models/
+
+# ======================
+# Loggfiler
+# ======================
+*.log
+log.txt
+
+# ======================
+# IDE-spesifikt (VS Code, PyCharm osv.)
+# ======================
+.vscode/
+.idea/
