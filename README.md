@@ -67,10 +67,10 @@ python -m src.train_regression
 
 ---
 
-# 🚀 Videre arbeid 
+## 🚀 Videre arbeid 
 - Hyperparatemeter-tuning (GridSearchCV / Optuna)
 - SHAP for model explainability
 - Web-app for prediksjon med egendetinerte inputfelt
 
-# 👤 Forfatter
+## 👤 Forfatter
 - ### Runar Olsen
